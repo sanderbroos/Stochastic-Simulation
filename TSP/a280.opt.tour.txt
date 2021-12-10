@@ -1,4 +1,5 @@
 NAME : ./TSPLIB/a280.tsp.optbc.tour
+COMMENT : Optimal tour for a280.tsp
 TYPE : TOUR
 DIMENSION : 280
 TOUR_SECTION
